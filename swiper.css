@@ -1,0 +1,21 @@
+.swiper {
+  width: auto;
+  height: auto;
+}
+.swiper-wrapper {
+ /* display: flex;
+  flex-wrap: nowrap;
+  background-color: DodgerBlue;*/
+}	
+.swiper-wrapper > .swiper-slide {
+ /* background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;*/
+}
+.swiper-slide > img{
+	width: auto;
+	height: 400px;
+}
