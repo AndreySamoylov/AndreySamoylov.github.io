@@ -1,1 +1,17 @@
+body{
+    background: linear-gradient(#1c1b1b, #363d36);
+}
+p{
+    font: 1.2rem "Fira Sans", sans-serif;
+    color: lightgray;
+}
+li{
+    color: lightgray;
+}
+h1, h2, h3{
+    font: small-caps bold 24px/1 sans-serif;
+    color: lightgray;
+}
+.description{
 
+}
